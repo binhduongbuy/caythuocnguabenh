@@ -14,7 +14,7 @@ recipe:
     2. 
 
 ---
-<h3>Chỉ cần thêm một vài miếng dưa chuột gọt vỏ và một chút thịt bơ, thêm chút nước cho vào xay nhuyễn trong máy xay sinh tố. Chưa mất hơn 1 phút, bạn đã có hỗn hợp bơ dưa chuột thơm ngon bổ dưỡng. Ly sinh tố chữa bệnh này nên uống vào buổi sáng sau ăn, thực hiện trong vòng 2 tháng để thấy những tác dụng rõ rệt nhất.</3>
+<h3>Chỉ cần thêm một vài miếng dưa chuột gọt vỏ và một chút thịt bơ, thêm chút nước cho vào xay nhuyễn trong máy xay sinh tố. Chưa mất hơn 1 phút, bạn đã có hỗn hợp bơ dưa chuột thơm ngon bổ dưỡng. Ly sinh tố chữa bệnh này nên uống vào buổi sáng sau ăn, thực hiện trong vòng 2 tháng để thấy những tác dụng rõ rệt nhất.</h3>
 
 Dưới đây là những lợi ích mà ly sinh tố bơ dưa chuột đem lại cho cơ thể bạn:
 
