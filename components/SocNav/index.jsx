@@ -18,7 +18,6 @@ class SocNav extends React.Component {
                     <Ink />
                 </a>
 
-                
             </div>
         );
     }
