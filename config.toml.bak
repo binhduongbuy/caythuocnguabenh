@@ -3,9 +3,9 @@ siteDescr = 'Địa điểm ăn uống Bình Dương'
 siteDescription = "Hãy ăn uống ngay"
 siteUrl = "http://caythuocnguabenh.net"
 siteBandcampUrl = 'http://caythuocnguabenh.net'
-siteMenuOne = 'Món Chính'
-siteMenuTwo = 'Món Phụ'
-siteMenuThree = 'Thức Uống'
+siteMenuOne = 'Món Phụ'
+siteMenuTwo = 'Món Chính'
+siteMenuThree = 'Thực Đơn'
 
 siteSoundcloudUrl = 'https://soundcloud.com/sentimony'
 siteFacebookUrl = 'https://www.facebook.com/OdayakaPhuQuoc'
